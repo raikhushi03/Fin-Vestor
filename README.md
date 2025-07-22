@@ -1,4 +1,4 @@
-<h1>💸 Financial Investment Calculator</h1>
+<h1>💸 Financial Investment Web Application </h1>
 
 A responsive and intuitive web app built using **React JS** and **Vite** to help users calculate returns on their investments over time. It takes into account initial investment, annual contributions, expected interest rate, and investment duration to display projected financial growth.
 
