@@ -7,7 +7,7 @@ A responsive and intuitive web app built using **React JS** and **Vite** to help
 <h3> 🚀 Features </h3>
 
 - Real-time investment calculation
-- Dynamic chart and results table
+- Dynamic results table
 - Simple and clean UI
 - Built with modern React stack (Vite, Hooks, Components)
 
