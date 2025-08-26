@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Header from "./components/Header.jsx";
+import Header from "./Components/Header.jsx";
 import UserInput from "./Components/UserInput.jsx";
 import Results from "./Components/Results.jsx";
 function App() {
