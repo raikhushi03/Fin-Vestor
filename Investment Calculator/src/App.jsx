@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Header from "./components/Header.jsx";
-import UserInput from "./components/UserInput.jsx";
-import Results from "./components/Results.jsx";
+import Header from "./Components/Header.jsx";
+import UserInput from "./Components/UserInput.jsx";
+import Results from "./Components/Results.jsx";
 function App() {
   const[userInput1, setUserInput]=useState({
     initialInvestment: 10000,
